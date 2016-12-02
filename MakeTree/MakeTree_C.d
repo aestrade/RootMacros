@@ -1,0 +1,52 @@
+
+# DO NOT DELETE
+
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TFile.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TDirectoryFile.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TDirectory.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TNamed.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TObject.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/Rtypes.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/RConfig.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/RVersion.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/DllImport.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/Rtypeinfo.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/snprintf.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/strlcpy.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TGenericClassInfo.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TSchemaHelper.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TStorage.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TVersionCheck.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/Riosfwd.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TBuffer.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TString.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TMathBase.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TList.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TSeqCollection.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TCollection.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TIterator.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TDatime.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TUUID.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TMap.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/THashTable.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TUrl.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TTree.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TBranch.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TObjArray.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TAttFill.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TDataType.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TDictionary.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/Property.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/ESTLType.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TAttLine.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TAttMarker.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TArrayD.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TArray.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TArrayI.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TClass.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TObjString.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/ThreadLocalStorage.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/RConfigure.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/TVirtualTreePlayer.h
+./MakeTree_C.so: /Applications/root_v5.34.36/include/cintdictversion.h /Applications/root_v5.34.36/include/RVersion.h
+MakeTree_C__ROOTBUILDVERSION= 5.34/36
