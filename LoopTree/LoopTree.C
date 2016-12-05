@@ -56,6 +56,8 @@ void LoopTree(string inName="out.root", long long Nmax= -1){
 
     tree->GetEntry(i);
 
+    //    cout << entry << "..."<<endl;
+
     //fill some test histograms
     hXY->Fill(X[0],Y[0]);
     //applying some conditions on other variables
